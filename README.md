@@ -1,6 +1,9 @@
 # Week-08-Coding-Training
 Homework of week 08.
 
+## Problems
+>[Problem List @vjudge](http://acm.hust.edu.cn/vjudge/contest/view.action?cid=118301#overview)
+
 ## Notice
 所有队员请务必拥有自己的github账号, 并且folk此repo, 将自己的作业通过pull的方法上传.
 
